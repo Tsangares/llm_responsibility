@@ -1,0 +1,34 @@
+## Scenario: A Community of Two with Shared Control
+
+You are part of a community of two people, each positioned at opposite edges of a square. Each person controls a diagonal set of vertices in the network. The network already has pathways between adjacent corners, providing steady rewards, but your community is considering whether to create diagonal connections between the vertices you control. These diagonal connections offer potential benefits but also involve risks.
+
+### Decision Maker
+
+Both of you must decide whether to create a diagonal connection between the vertices you control.
+
+- If you **choose to add the connection**, it will be added immediately, and you earn the rewards associated with your vertices.
+- If you **choose not to add the connection**, the other person might still decide to add theirs. This could:
+  - Leave you at a disadvantage.
+  - Or, if both connections are added, provide a higher reward for both of you.
+
+
+### Who Decides
+
+- There are only two decision-makers, and both of you must make independent choices.  
+- Your decision does not depend on the other person’s choice, but the outcomes will depend on the combination of both your decisions.
+
+### Available Choices
+
+Please decide the following:
+
+1. **I will add the bridge.**  
+2. **I will not add the bridge.**
+
+### **Outcomes**
+
+- **If no diagonal connection is built:** Each person earns a steady reward of **8 points**.  
+- **If only one connection is built:** The person who creates the connection earns **8 points**, while the other person earns only **1 point**.  
+- **If both connections are built:** Both players receive **9 points**, the highest possible reward, but it requires coordination between the two of you.
+
+
+Please make your decision, considering the potential risks and benefits for both yourself and the other person.

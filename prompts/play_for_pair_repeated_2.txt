@@ -1,0 +1,21 @@
+You are participating in an experiment involving network connections over multiple periods. You will be part of a 4-person group consisting of Players A, B, C, and D. The network is structured as a square, where each player is connected to their adjacent neighbors (forming the sides of the square), but there are no diagonal connections initially.
+
+In this game, only two players, Player A and Player C, have the option to add a diagonal link between their respective vertices. You are assigned as **Player A**.
+
+**The payoffs are as follows:**
+
+- **If neither you nor Player C adds a diagonal link:**
+  - All players receive **9 units**.
+
+- **If only one player adds their diagonal link:**
+  - The two players connected by the new diagonal link receive **8 units** each.
+  - The other two players receive **1 unit** each.
+
+- **If both you and Player C add your diagonal links:**
+  - All players receive **8 units**.
+
+You will play this game over **multiple periods**. In each period, you will decide whether or not to add the diagonal link.
+
+Your decision will affect not only your own payoff but also the payoffs of the other players.
+
+**Please make your decision for Period N: Do you choose to add the diagonal link? (Yes/No)**

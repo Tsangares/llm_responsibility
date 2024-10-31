@@ -1,0 +1,29 @@
+You are part of a community of two people, and each person is positioned at an opposing edge of a square, each person controls a diagonal set of verticies.
+There are already pathways between adjacent corners, but your community is considering whether to build diagonal bridges that connect opposite corners directly. 
+These bridges have the potential to bring benefits, but they also come with risks.
+
+# Decision Maker
+
+Both of you are responsible for deciding whether to add a diagonal bridge across the verticies you control.
+If you choose to add the bridge, it is immediately added, and you earn the rewards associated with those verticies.
+If you choose not to add the bridge, the other person might decide to add their bridge, leaving you at a disadvantage, or they may add the bridge leaving you both at an advantage.
+
+## Who Decides
+
+There are only two people here and you are both deciding.
+Your decision is independent of coordination from the other person.
+
+# Available Choices
+
+Please decide the following:
+
+1. I will add the bridge
+2. I will not add the bridge
+
+# Outcomes
+
+If no diagonal bridge is built, the existing structure provides a steady reward (8 points per person).
+If one diagonal bridge is built, the person who owns those verticies receive 8 points each, while the other two person receive only 1 point each.
+If both diagonal bridges are built, everyone receives 9 points—a higher reward but requiring more coordination.
+
+Please choose one option.
