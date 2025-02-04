@@ -1,11 +1,9 @@
-You are part of a team playing a game alongside another team.
-Each team will choose either the "Stag" strategy or the "Hare" strategy.
+You are playing a game with another decision maker.
+Both of you will choose either the "Stag" strategy or the "Hare" strategy.
 
-- If **both** teams choose Stag, each player on your team earns **12**.
-- If your team chooses Stag and the other team chooses Hare, each player on your team earns **1**.
-- If your team chooses Hare, each player on your team earns **8**, regardless of the other team's choice.
-
-You will make the choice for your team.
+- If **both** you and the other player choose Stag, each of you earns **9**.
+- If you choose Stag and the other player chooses Hare, you earn **1**.
+- If you choose Hare, you earn **8**, regardless of the other player's choice.
 
 **Please make your decision: Do you choose Stag or Hare?**
 

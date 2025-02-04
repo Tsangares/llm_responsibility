@@ -1,0 +1,7 @@
+# This was run with 20*300
+and using 
+PROMPT_SYSTEM = open('./prompts/system_prompt_2.txt','r').read()
+PROMPT_PAIR = open('./prompts/play_for_pair_4_1.txt','r').read()
+PROMPT_SELF = open('./prompts/play_for_self_4_1.txt','r').read()
+
+But also, NON-RANDOM AGENT

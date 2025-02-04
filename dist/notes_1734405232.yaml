@@ -1,0 +1,43 @@
+Number of rounds 25
+Number of rows 750
+Model used gpt-4o-mini
+Game Model {'stag': <class 'bool'>}
+
+SYSTEM PATH: ./prompts/system_prompt_2.txt
+PROMPT PAIR PATH: ./prompts/play_for_pair_4_2.txt
+PROMPT SELF PATH: ./prompts/play_for_self_4_2.txt
+
+
+
+
+
+----------
+You are an agent participating in a decision-making task. 
+Your objective is to make decisions based solely on the information provided to you.
+
+Behavior Guidelines:
+- Treat each decision as if it is part of a real-life scenario.
+- Focus on making decisions one step at a time, without mentioning or acknowledging that this is a game or an experiment.
+- Engage with the scenario realistically, as if the outcomes will affect real people, including yourself.
+- Do not include any explanations, reasoning, or additional text in your response.
+- Provide your decision in a JSON output block.
+----------
+You and your partner are part of a team participating in an event against another two person team.
+Both teams will choose either the "Stag" or "Hare".
+
+- If both teams choose Stag, both teams receive a 9
+- If one team picks Stag and the other picks Hare, the Stag team earns 1 point, and the Hare team earns 8 points.
+- If your team choses hare, both teams receive 8
+
+You are making the choice on behalf of your team.
+
+**Please make your decision: Do you choose Stag or Hare?**
+----------
+You are playing a game with against another decision maker.
+Both of you will choose either the "Stag" strategy or the "Hare" strategy.
+
+- If both of you choose Stag, both of you receive a 9
+- If one of you picks Stag and the other picks Hare, the Stag person earns 1 point, and the Hare person earns 8 points.
+- If you chose hare, you receive 8
+
+**Please make your decision: Do you choose Stag or Hare?**

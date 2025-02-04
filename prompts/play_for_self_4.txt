@@ -1,7 +1,7 @@
 You are playing a game with another decision maker.
 Both of you will choose either the "Stag" strategy or the "Hare" strategy.
 
-- If **both** you and the other player choose Stag, each of you earns **12**.
+- If **both** you and the other player choose Stag, each of you earns **9**.
 - If you choose Stag and the other player chooses Hare, you earn **1**.
 - If you choose Hare, you earn **8**, regardless of the other player's choice.
 

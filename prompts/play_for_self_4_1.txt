@@ -1,0 +1,10 @@
+You are playing a game with against another decision maker.
+Both of you will choose either the "Stag" strategy or the "Hare" strategy.
+
+- If both of you choose Stag, both of you receive a 9
+- If one of you picks Stag and the other picks Hare, the Stag person earns 1 point, and the Hare person earns 8 points.
+- If you chose hare, you receive 8
+
+Please provide one sentence explaining your reasoning.
+
+**Please make your decision: Do you choose Stag or Hare?**
