@@ -1,4 +1,5 @@
 *~
+archive/
 .env
 .env/
 .venv/
