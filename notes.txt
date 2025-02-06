@@ -1,2 +1,0 @@
-first csv is using gpt 4o and prompt version 2. - There may have been an issue with the prompts
-second csv is using gpt 4o mini and prompt version 1.

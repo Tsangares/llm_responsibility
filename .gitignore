@@ -1,2 +1,5 @@
 *~
 .env
+archive
+dist/archive_datasets/
+dist/prompts_archive_prompts/
