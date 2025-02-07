@@ -1,0 +1,12 @@
+You and your partner are part of a team participating in an event against another two person team.
+Both teams will choose either the "Option A" or "Option B".
+
+- If both teams choose Option A, both teams receive a 9
+- If one team picks Option A and the other picks Option B, the Option A team earns 1 point, and the Option B team earns 8 points.
+- If your team choses Option B, both teams receive 8
+
+You are making the choice on behalf of your team.
+
+Please provide one sentence explaining your reasoning.
+
+**Please make your decision: Do you choose Option A or Option B?**
