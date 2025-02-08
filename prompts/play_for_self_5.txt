@@ -7,4 +7,4 @@ Both of you will choose either the "Option A" strategy or the "Option B" strateg
 
 Please provide one sentence explaining your reasoning.
 
-**Please make your decision: Do you choose Option A or Option B?**
+**Please make your decision: Do you choose option_a or option_b?**
