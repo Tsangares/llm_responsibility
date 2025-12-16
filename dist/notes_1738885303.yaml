@@ -5,8 +5,8 @@ game model:
   reasoning: !!python/name:builtins.str ''
   stag: !!python/name:builtins.bool ''
 model used: gpt-4o-mini
-number of rounds: 50
-number ow rows: 1500
+number of rounds: 100
+number ow rows: 4500
 path_info:
   pair path: ./prompts/play_for_pair_4_1.txt
   self path: ./prompts/play_for_self_4_1.txt
